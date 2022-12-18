@@ -1,0 +1,27 @@
+form {
+  margin: 20px;
+}
+
+form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+header {
+  font-size: 30px;
+  color: rgb(40, 33, 33);
+  background-image: url("./images/Wood-Texture1.jpg");
+  background-size: 100%;
+  background-position: center;
+  height: 100px;
+}
+
+h1 {
+  color: blue;
+}
+
+.header {
+  margin-left: 20px;
+}
