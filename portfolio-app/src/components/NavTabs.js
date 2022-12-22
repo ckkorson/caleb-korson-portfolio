@@ -1,10 +1,12 @@
 import React from 'react';
+import myPic from '../images/pic-of-me.jpeg';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
       <header>
         <p className='header'>Caleb Korson</p>
+        <img src={myPic} alt='Me and my wife' className={currentPage === 'About' ? 'myPic' : 'myPicNone'}/>
       </header>
       <ul className="nav nav-tabs">
         <li className="nav-item">
