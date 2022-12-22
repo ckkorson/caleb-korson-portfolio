@@ -49,3 +49,11 @@ h1 {
 .myPicNone {
   display: none;
 }
+
+footer {
+  /* position: relative; */
+}
+
+.links {
+  text-decoration: none;
+}

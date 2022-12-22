@@ -46,6 +46,12 @@ function NavTabs({ currentPage, handlePageChange }) {
           </a>
         </li>
       </ul>
+      {/* <footer className='page-footer'>
+        <ul className='row links'>
+          <li><a href='https://github.com/ckkorson' target='_blank'>GITHUB</a></li>
+          <li><a href='https://www.linkedin.com/in/calebkorson/'>LINKEDIN</a></li>
+        </ul>
+      </footer> */}
     </div>
   );
 }

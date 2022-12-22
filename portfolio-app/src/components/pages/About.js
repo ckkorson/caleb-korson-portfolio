@@ -12,9 +12,8 @@ export default function About() {
           I currently work for Consolidated Nuclear Securities as a Process Engineer, but I am looking expand 
           my skill set and branch out from engineering.
           With this in mind, I am currently taking the University of Vanderbilt Coding Bootcamp to earn a 
-          certificate as a full stack web developer
+          certificate as a full stack web developer. Please enjoy clicking through my portfolio!
         </p>
-        {/* <img src={myPic} alt='Me and my wife' className='myPic'/> */}
       </div>
     </div>
   );
