@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55c9ed7e.css",
+    "main.js": "/static/js/main.5ace0be8.js",
+    "static/media/Wood-Texture1.jpg": "/static/media/Wood-Texture1.f5448610a30170c08b70.jpg",
+    "static/media/pic-of-me.jpeg": "/static/media/pic-of-me.7ed67d32319c458df67d.jpeg",
+    "index.html": "/index.html",
+    "main.55c9ed7e.css.map": "/static/css/main.55c9ed7e.css.map",
+    "main.5ace0be8.js.map": "/static/js/main.5ace0be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c9ed7e.css",
+    "static/js/main.5ace0be8.js"
+  ]
+}
